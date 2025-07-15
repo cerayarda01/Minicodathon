@@ -1,5 +1,7 @@
 package GameplayObjects;
 
+
+
 public class Character {
 
     private int Str;
