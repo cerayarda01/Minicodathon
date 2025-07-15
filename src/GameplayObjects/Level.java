@@ -2,7 +2,7 @@ package GameplayObjects;
 
 public class Level {
 
-    char Map[][];
+    private char Map[][];
 
 
 
@@ -15,10 +15,8 @@ public class Level {
 
 
 
-    public void generateMap(int seed1,int seed2,int seed3,int seed4)
+    public void generateMap(int seed1,int seed2,int seed3,int seed4){
 
-
-
-
+    }
 
 }

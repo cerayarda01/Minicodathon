@@ -13,13 +13,15 @@ public class GameRenderer {
 
 
 
+
+
     public GameRenderer(){
-        Con= Enigma.getConsole("Labyrinth",640,360,2);
+        Con= Enigma.getConsole("Labyrinth",640,360,10);
     }
 
     public void clear(){
 
-        Con.getTextWindow().setCursorPosition(0,0);
+
 
         for(int i=0;i<640;i++){
             for(int j=0;j<360;j++){
@@ -27,11 +29,10 @@ public class GameRenderer {
             }
         }
 
-        Con.getTextWindow().setCursorPosition(0,0);
+
 
 
     }
-
 
 
     public void Tick(){

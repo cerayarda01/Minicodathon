@@ -4,14 +4,14 @@ package GameplayObjects;
 
 public class Character {
 
-    private int Str;
-    private int Int;
-    private int Wis;
-    private int Luc;
+    protected int Str;
+    protected int Int;
+    protected int Wis;
+    protected int Luc;
 
 
 
-    private int gameSeed;
+
 
 
 

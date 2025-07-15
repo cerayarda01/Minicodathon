@@ -1,0 +1,11 @@
+This RPG game centers on procedurally generated dungeons. The player's objective is to capture four unique keys in order to complete the game.
+At the start, a 16-digit seed, composed of four dynamic segments, is generated. As the player progresses, their actions influence these segments—causing them to increase or decrease—shaping the layout, difficulty, and enemy characteristics throughout the journey.
+Players possess a dimensional notebook capable of storing unlimited items. However, to perform any storage-related actions, they must use a special, rare ink—a resource procedurally distributed throughout the dungeons. Players begin their adventure with two bottles of ink, and must carefully manage this supply while exploring. Once a player leaves a dungeon, it becomes inaccessible, adding weight to every choice made within.
+Enemy stats and names are also determined by the seed. Names are drawn from a curated dictionary, ensuring each dungeon encounter feels unique and unpredictable.
+
+
+Using an Item costs 1 bottle.(excluding equipped items)
+Storing an Item costs 2 bottles.
+Destroying an Item costs 0 bottles.
+
+
